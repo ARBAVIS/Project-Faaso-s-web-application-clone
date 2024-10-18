@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "title": "Wow!Momos",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTawqzeOBsuvNyZS2nTOXdiF-Vib05-Ldtz7Q&s",
+            "area": "Healthy Food-Cop",
+            "id": "0o33"
+        },
+        {
+            "title": "Mc Donald",
+            "ratings": "4.4",
+            "time": "37 ",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnNMQ7_mec7_QHP6jJWdMcWZbFCKx7BOCIkg&s",
+            "area": "Shivam Wada",
+            "id": "4959"
+        },
+        {
+            "title": "KFC",
+            "ratings": "4.1",
+            "time": "4.5",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Tj_2evGecjNqlB8VKTKkiBTwqERgY7pJ2Q&s",
+            "area": "Deccan Gymkhana",
+            "id": "F964"
+        },
+        {
+            "title": "Domino's Pizza",
+            "ratings": "4.4",
+            "time": "35 min",
+            "images": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2d/23/07/domino-s-pizza.jpg?w=1200&h=-1&s=1",
+            "area": "Rsta Peth",
+            "id": "18d6"
+        },
+        {
+            "title": " M1 Pasta",
+            "ratings": "3.9",
+            "time": "33 min",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4MV3Mc9zbB40-mkHljlDq72CAZ68iWKuGw&s",
+            "area": "Healthy Food-Cop",
+            "id": "0h68"
+        },
+        {
+            "title": "Morya Misal",
+            "ratings": "3.5",
+            "time": "32 min",
+            "images": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?cs=srgb&dl=pexels-saveurssecretes-5560763.jpg&fm=jpg",
+            "area": "Healthy Food-Cop",
+            "id": "6789"
+        },
+        {
+            "title": " Hotel Saravana Bhavan",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://www.greavesindia.co.uk/wp-content/uploads/2023/11/20.-Hotel-Savana-Bhavan-300x287.png",
+            "area": "Healthy Food-Cop",
+            "id": "3256"
+        },
+        {
+            "title": "Biryani",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+            "area": "Healthy Food-Cop",
+            "id": "1648"
+        },
+        {
+            "title": "Bademiya",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://www.greavesindia.co.uk/wp-content/uploads/2023/11/Screenshot-2024-03-08-at-13.28.22-234x300.png",
+            "area": "Healthy Food-Cop",
+            "id": "164"
+        },
+        {
+            "title": "Hotel Dawat",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrk8ddVG6ZAtTcn3KLr-Z6PBjqBoRqgPLS7w&s",
+            "area": "shivaginager",
+            "id": "798"
+        },
+        {
+            "title": "Mathura veg",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5bsOq1fmPqAqzNJx7MYaAghkeMRMVxVTaA&s",
+            "area": "shivagi nager",
+            "id": "735"
+        },
+        {
+            "title": " Chulbul Dhaba",
+            "ratings": "3.9",
+            "time": "44 min",
+            "images": "https://lh3.googleusercontent.com/LZjbXFLmb-xUdU1wH1fK8_iZwPCuMRUWBVtpM1MG2ZkpsHNzPl1Hv8zQwMFwg9f5v14QON-OVkTs-GY66Gqy_lWx2ho=w1200-rw",
+            "area": "Vagholi",
+            "id": "4901"
+        }
+    ]
+}
